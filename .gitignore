@@ -1,0 +1,21 @@
+# Source assets and generated training data (large and/or externally licensed)
+/dataset-items/
+/dataset/
+
+# Demo recordings and generated runtime output
+/recording.mp4
+/*.mp4
+/smartpack_events.csv
+/runs/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
