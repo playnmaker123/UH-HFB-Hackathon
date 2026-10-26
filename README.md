@@ -177,5 +177,4 @@ control of every packing and food-safety decision.
 
 - Chase Liu
 - Stanley Huang
-- Lucas Tang
 - Rishi Kenchannavar
